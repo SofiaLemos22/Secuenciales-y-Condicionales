@@ -8,7 +8,7 @@ vida, nivel de estrés, nivel de salud, etc.) en una escala del 1 al 10 y luego 
 
 import java.util.Scanner;
 
-public class CalculadoradeIndicedeFelicidad {
+public class CalculadoraÍndiceFelicidad7 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
