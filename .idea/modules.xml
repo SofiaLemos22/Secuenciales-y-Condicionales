@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Condicionales/Condicionales.iml" filepath="$PROJECT_DIR$/Condicionales/Condicionales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Secuenciales/Secuenciales.iml" filepath="$PROJECT_DIR$/Secuenciales/Secuenciales.iml" />
+      <module fileurl="file://$PROJECT_DIR$/SecuencialesyCondicionales.iml" filepath="$PROJECT_DIR$/SecuencialesyCondicionales.iml" />
+    </modules>
+  </component>
+</project>
