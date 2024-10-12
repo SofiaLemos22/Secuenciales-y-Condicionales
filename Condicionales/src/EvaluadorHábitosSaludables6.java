@@ -8,7 +8,7 @@ hábitos saludables basada en estos datos.
 
 import java.util.Scanner;
 
-public class EvaluadorHábitosSaludables5 {
+public class EvaluadorHábitosSaludables6 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
         boolean salir = false;

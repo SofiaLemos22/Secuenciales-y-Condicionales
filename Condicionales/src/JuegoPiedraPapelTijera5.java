@@ -6,7 +6,7 @@ elige una opción al azar y determina quién gana. Imprime el resultado del jueg
 import java.util.Scanner;
 import java.util.Random;
 
-public class JuegoPiedraPapelTijera {
+public class JuegoPiedraPapelTijera5 {
     public static void main(String[] args) {
 
         Scanner sc = new Scanner(System.in);
