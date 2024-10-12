@@ -4,7 +4,7 @@ combustible del vehículo en litros por kilómetro y el precio del combustible p
 calcule e imprima el costo total del viaje. */
 
 import java.util.Scanner;
-public class CalculadoraCostodeViaje {
+public class CalculadoraCostoViaje5 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
